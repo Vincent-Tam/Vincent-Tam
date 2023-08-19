@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Vue, React**
 
-- 📫 How to reach me **vincent200913@gmail.com**
+- 📫 How to reach me [Mail](mailto:vincent200913@gmail.com)
 
 - 📄 Know about my experiences [Resume](https://docs.google.com/document/d/182I2oW4dA3JsGvtQ4PuZLj1q_Gz501VOwjtR1c22sI4/edit?usp=sharing)
 
